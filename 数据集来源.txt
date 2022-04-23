@@ -1,0 +1,6 @@
+数据集来源：
+Cityscapes数据集：
+（原始图像）https://www.cityscapes-dataset.com/file-handling/?packageID=3
+（标注图）https://www.cityscapes-dataset.com/file-handling/?packageID=1
+PASCAL VOC 2012数据集：
+http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar
